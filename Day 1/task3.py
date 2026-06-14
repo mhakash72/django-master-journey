@@ -1,4 +1,4 @@
-sum=0
-for i in range(1,101,2):
-    sum =sum+i
-print(sum)
+total=0
+for i in range(2,101,2):
+    total =total+i
+print(total)
